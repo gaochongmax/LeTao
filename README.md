@@ -337,8 +337,7 @@ onerror="this.src = 'images/none.jpg' "
     数据可视化  插件  echarts  http://echarts.baidu.com/
     数据可视化  插件  echarts  https://www.hcharts.cn/demo/highcharts
     
-    + 现在后台没有提供对应的数据接口  但是我们可以模拟
-    + 给大家带来以后工作当中可能会遇到的问题
+    + 现在后台没有提供对应的数据接口  但可以模拟
     
 #### 用户管理
    - 用户信息的展示
